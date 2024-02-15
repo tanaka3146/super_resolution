@@ -1,0 +1,10 @@
+#AI
+torch-directml==0.1.13.1.dev230301
+
+#GUI
+customtkinter
+win32mica
+
+#UTILS
+moviepy
+opencv-python-headless
